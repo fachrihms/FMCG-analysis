@@ -44,6 +44,7 @@ Insight:
 ![alt text](images/graph_store.png)
 
 ![alt text](images/table_store.png)
+
 Insight:
 <br>Penjualan tertinggi ada pada Toko daerah Urban dengan penjualan sebesar 369.154 dengan produk paling banyak terjual adalah Personal Care sebanyak 87.048
 
