@@ -34,27 +34,27 @@ With a professional team and commitment to quality, PT Bintang Konsumen Global c
 
 ## In which month are the best-selling sales and for which products?
 
-![alt text](images\graph_sales.png)
+![alt text](images/graph_sales.png)
 
-![alt text](images\beverages_most.png)
+![alt text](images/beverages_most.png)
 
 Insight:
 <br>The highest sales were in June with a sales volume of 99,558 units sold with an increase of 9.11% from the previous month, the most sold product was beverages or drinks with the most units sold being 28,111.
 
 ### Where is the store location with the highest sales volume and on what product?
 
-![alt text](images\graph_store.png)
+![alt text](images/graph_store.png)
 
-![alt text](images\table_store.png)
+![alt text](images/table_store.png)
 
 Insight:
 <br>The highest sales were in Urban area stores with sales of 369,154 with the most sold product being Personal Care at 87,048
 
 ### On which day is the store with the highest sales volume?
 
-![alt text](images\graph_days.png)
+![alt text](images/graph_days.png)
 
-![alt text](images\table_days.png)
+![alt text](images/table_days.png)
 
 Insight:
 <br>The highest sales were on Friday with a sales increase of 9.55% from the previous day, the best-selling product was Personal Care which sold 51,064 units, selling 68.62% more than the previous day.
@@ -71,7 +71,7 @@ So the business recommendation here is to increase the stock of snacks so that t
 
 ### Show current stock levels per product category
 
-![alt text](images\stocks.png)
+![alt text](images/stocks.png)
 
 Insight:
 <br>There is a decrease in the stock level of snacks, personal care, and dairy so that restocking can be done for new items and finishing off old items if they are approaching their expiration date, also applies to beverage products that have a relatively safe stock but if there are items that are approaching their expiration date, the stock should be used up immediately to prevent overstock and storage efficiency.
@@ -80,9 +80,9 @@ Insight:
 
 ### Products with the most stable sales
 
-![alt text](images\stable.png)
+![alt text](images/stable.png)
 
-![alt text](images\stable_table.png)
+![alt text](images/stable_table.png)
 
 Insight:
 <br>Dairy products (Milk), Household (Home Appliances) and Personal Care (Care) although not the highest-selling products this year compared to beverages, have stable sales, namely within one year with 3 times the highest sales
