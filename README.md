@@ -52,6 +52,7 @@ Insight:
 ![alt text](images/graph_days.png)
 
 ![alt text](images/table_days.png)
+
 Insight:
 <br>Penjualan tertinggi ada pada hari Jumat dengan peningkatan penjualan sebesar 9,55% dari hari sebelumnya, product paling laku terjual adalah Personal Care yang terjual sebanyak 51.064 unit laku lebih besar 68,62% dari hari sebelumnya.
 Domain Knowledge dan Rekomendasi Bisnis:
