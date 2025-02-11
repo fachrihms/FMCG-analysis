@@ -34,7 +34,7 @@ Dengan tim profesional dan komitmen terhadap kualitas, PT Bintang Konsumsi Globa
 
 ## Pada bulan apa penjualan paling laris dan pada produk apa?
 
-![alt text](images\graph_sales.png)
+![alt text](images/graph_sales.png)
 
 Insight:
 <br>Penjualan tertinggi ada pada bulan Juni dengan volume penjualan sebesar 99.558 unit terjual dengan peningkatan sebesar 9.11% dari bulan sebelumnya, produk yang paling banyak terjual adalah beverages atau minuman dengan banyak unit terjual adalah 28.111.
