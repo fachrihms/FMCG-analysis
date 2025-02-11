@@ -86,3 +86,6 @@ Insight:
 
 Insight:
 <br>Dairy products (Milk), Household (Home Appliances) and Personal Care (Care) although not the highest-selling products this year compared to beverages, have stable sales, namely within one year with 3 times the highest sales
+
+Business recommendation:
+Build customer loyalty specifically for Dairy, Household, and Personal care product buyers or consider B2B products to increase sales in larger numbers.
