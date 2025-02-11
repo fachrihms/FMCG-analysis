@@ -58,6 +58,7 @@ Insight:
 
 Insight:
 <br>Penjualan tertinggi ada pada hari Jumat dengan peningkatan penjualan sebesar 9,55% dari hari sebelumnya, product paling laku terjual adalah Personal Care yang terjual sebanyak 51.064 unit laku lebih besar 68,62% dari hari sebelumnya.
+
 Domain Knowledge dan Rekomendasi Bisnis:
 
 - Senin, hari pertama orang kerja, biasanya hari pertama orang kerja dengan pembawaan masih suasana liburan maka dari itu beberapa diantara mereka butuh kopi untuk menambah energi, berdasarkan hasil analisis data beverages atau minuman menjadi produk kategori dengan sales paling banyak.
