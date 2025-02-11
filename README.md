@@ -34,26 +34,26 @@ Dengan tim profesional dan komitmen terhadap kualitas, PT Bintang Konsumsi Globa
 
 ## Pada bulan apa penjualan paling laris dan pada produk apa?
 
-![alt text](images/graph_sales.png)
+![alt text](images\graph_sales.png)
+
+![alt text](images\beverages_most.png)
 
 Insight:
 <br>Penjualan tertinggi ada pada bulan Juni dengan volume penjualan sebesar 99.558 unit terjual dengan peningkatan sebesar 9.11% dari bulan sebelumnya, produk yang paling banyak terjual adalah beverages atau minuman dengan banyak unit terjual adalah 28.111.
 
 ### Di mana kah store location dengan sales volume paling tinggi dan pada produk apa?
 
-![alt text](images/graph_store.png)
+![alt text](images\graph_store.png)
 
-![alt text](images/table_store.png)
-
+![alt text](images\table_store.png)
 Insight:
 <br>Penjualan tertinggi ada pada Toko daerah Urban dengan penjualan sebesar 369.154 dengan produk paling banyak terjual adalah Personal Care sebanyak 87.048
 
 ### Pada hari apa toko dengan jumlah sales volume terbanyak?
 
-![alt text](images/graph_days.png)
+![alt text](images\graph_days.png)
 
-![alt text](images/table_days.png)
-
+![alt text](images\table_days.png)
 Insight:
 <br>Penjualan tertinggi ada pada hari Jumat dengan peningkatan penjualan sebesar 9,55% dari hari sebelumnya, product paling laku terjual adalah Personal Care yang terjual sebanyak 51.064 unit laku lebih besar 68,62% dari hari sebelumnya.
 Domain Knowledge dan Rekomendasi Bisnis:
@@ -68,7 +68,7 @@ Jadi rekomendasi bisnis disini adalah menambah stok snacks agar tidak mengalami 
 
 ### Tunjukkan Stok level saat ini per product category
 
-![alt text](images/stocks.png)
+![alt text](images\stocks.png)
 
 Insight:
 <br>Terdapat penipisan pada stock level snacks, personal care, dan dairy sehingga dapat dilakukan restock untuk barang baru serta penghabisan untuk barang lama jika sudah mendekati masa kedaluwarsa, berlaku juga untuk product beverage yang memiliki stok cenderung aman tetapi jika ada barang yang mendekati masa kedaluwarsa sebaiknya stoknya segera dihabiskan untuk mencegah overstock dan efisiensi penyimpanan.
@@ -77,9 +77,9 @@ Insight:
 
 ### Produk dengan penjualan paling stabil
 
-![alt text](images/stable.png)
+![alt text](images\stable.png)
 
-![alt text](images/stable_table.png)
+![alt text](images\stable_table.png)
 
 Insight:
 <br>Produk Dairy (Susu), Household (Peralatan Rumah) dan Personal Care (Perawatan) walaupun bukan produk dengan penjualan tertinggi di tahun ini dibandingkan beverages tetapi memiliki penjualan yang stabil yaitu dalam waktu satu tahun dengan mendapati 3 kali penjualan tertinggi dalam setiap bulannya,
